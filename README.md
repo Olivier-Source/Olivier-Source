@@ -2,4 +2,5 @@
 - 👀 I’m Windows Administrator
 - 🌱 I’m currently studying to become a Penetration Tester 
 - 💞️ I’m looking to collaborate on PowerShell
-- 📫 Vous pouvez me joindre sur mon blog : https://olivier.challet.me
+- 📫 You can reach me on my blog : https://olivier.challet.me
+-     Or on my linkedin page : https://www.linkedin.com/in/olivier-challet-244a50153
